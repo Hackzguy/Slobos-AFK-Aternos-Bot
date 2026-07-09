@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 2400,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a just a bot",
+        "Subscribe to HaczGuy!",
+        "Don't be afraid of these messages!"
       ]
     },
     "chat-log": true,
