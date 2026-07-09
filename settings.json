@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HackzGuy.aternos.me:56857",
+    "ip": "HackzGuy.aternos.me",
     "port": 56857,
     "version": "",
     "try-creative": false
