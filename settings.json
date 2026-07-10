@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "HackzGuy.aternos.me",
@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 2400,
       "messages": [
-        "I'm a just a bot",
+        "I'm just a bot",
         "Subscribe to HaczGuy!",
         "Don't be afraid of these messages!"
       ]
